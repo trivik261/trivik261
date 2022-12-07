@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sharan SK
-#### A Computer Engineering Student from IIITDM , 4th Year of Integrated Dual Degree(BTech + MTech)
+#### A Computer Engineering Student from IIITDM , 5th Year of Integrated Dual Degree(BTech + MTech)
 An Aspiring Software Developer and also a competent team player who has experience in working with companies that deal with machine learning in their software services.
 
 Skills: 
