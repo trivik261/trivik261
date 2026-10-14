@@ -4,6 +4,8 @@ Software Engineer at KLA Corporation and an integrated B.Tech. + M.Tech. graduat
 
 My work spans computer vision, machine learning, and software systems. I am interested in visual recognition, image segmentation, and efficient implementations that can be evaluated and reproduced.
 
+[Portfolio](https://trivik261.github.io/Portfolio_Website/) · [Google Scholar](https://scholar.google.com/citations?user=tZQJuCQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sharan-sk/)
+
 ## Selected projects
 
 | Project | What to explore |
@@ -14,6 +16,9 @@ My work spans computer vision, machine learning, and software systems. I am inte
 | [Parallel polynomial root finding](https://github.com/trivik261/Parallelization-of-Durand-Kerner-Algorithm) | Serial, OpenMP, MPI, and CUDA implementations of the Durand–Kerner algorithm. |
 
 ## Research
+
+[A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening in Fundus Images](https://drive.google.com/file/d/1eMZ_QJC1BAeDK8NMB8Kg5bwHFuF0JXKi/view?usp=sharing) — manuscript under review at INDICON 2026.
+
 
 [Artery-Vein Segmentation from Fundus Images using Deep Learning](https://arxiv.org/abs/2510.03717) — arXiv preprint, 2025.
 
@@ -26,3 +31,4 @@ My work spans computer vision, machine learning, and software systems. I am inte
 ## Find me
 
 [LinkedIn](https://www.linkedin.com/in/sharan-sk/) · [Google Scholar](https://scholar.google.com/citations?user=tZQJuCQAAAAJ) · [CodeChef](https://www.codechef.com/users/sharan261)
+
