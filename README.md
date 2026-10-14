@@ -1,6 +1,6 @@
 # Sharan Sharmeela Karuppannan
 
-Software Engineer at KLA Corporation and an integrated B.Tech. + M.Tech. graduate in Computer Science from IIITDM Kancheepuram.
+I build and explore projects in computer vision, machine learning, graphics, and computing systems.
 
 My work spans computer vision, machine learning, and software systems. I am interested in visual recognition, image segmentation, and efficient implementations that can be evaluated and reproduced.
 
@@ -17,12 +17,14 @@ My work spans computer vision, machine learning, and software systems. I am inte
 
 ## Research
 
+
+
 [Artery-Vein Segmentation from Fundus Images using Deep Learning](https://arxiv.org/abs/2510.03717) — arXiv preprint, 2025.
 
 ## Tools I work with
 
 - **Machine learning and vision:** Python, PyTorch, TensorFlow/Keras, OpenCV, NumPy, Pandas, scikit-learn, FAISS.
-- **Software systems:** C#, .NET, C++, C++/CLI, Angular, Git.
+- **Graphics and systems:** C++, OpenGL, Verilog, Git.
 - **Parallel computing:** OpenMP, MPI, CUDA.
 
 ## Find me
