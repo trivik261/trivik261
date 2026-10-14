@@ -1,18 +1,34 @@
-### Hi there 👋, I'm Sharan SK
-#### A Computer Engineering Graduate from IIITDM working in KLA Corporation
-An Aspiring Software Developer and also a competent team player who has experience in working with companies that deal with machine learning in their software services.
+# Sharan Sharmeela Karuppannan
 
-Skills: 
-- Languages:C,C++,Python,Java
-- Frameworks:Tensorflow(Keras),Pytorch
-- Web Dev:HTML,CSS,Javascript,PHP,React,SQL,MongoDB
-- Agile Techs:Jira,Confluence
-- Parallel Programming/HDL:CUDA C,MPI,OPENMP,VERILOG,Xilinx
+Software Engineer at KLA Corporation and an integrated B.Tech. + M.Tech. graduate in Computer Science from IIITDM Kancheepuram.
+
+My work spans computer vision, machine learning, and software systems. I am interested in visual recognition, image segmentation, and efficient implementations that can be evaluated and reproduced.
+
+[Portfolio](https://trivik261.github.io/Portfolio_Website/) · [Google Scholar](https://scholar.google.com/citations?user=tZQJuCQAAAAJ) · [LinkedIn](https://www.linkedin.com/in/sharan-sk/)
+
+## Selected projects
+
+| Project | What to explore |
+| --- | --- |
+| [Artery–vein segmentation](https://github.com/trivik261/AVSegmentation-SWIN_ATT_WNET) | Attention-WNet and Swin-WNet implementations for retinal fundus images using TensorFlow/Keras. |
+| [Reinforcement-learning experiments](https://github.com/trivik261/DA6400-Introduction-to-Reinforcement-Learning) | GridWorld planning, Acrobot control, MountainCar DQN, and actor–critic experiments. [Launch the GridWorld demo](https://trivik261.github.io/DA6400-Introduction-to-Reinforcement-Learning/). |
+| [Retinal vessel diameter measurement](https://github.com/trivik261/Blood-Vessel-Diameter-Measurement-Using-OpenCV) | OpenCV-based estimation of vessel width from a selected retinal vessel segment. |
+| [Parallel polynomial root finding](https://github.com/trivik261/Parallelization-of-Durand-Kerner-Algorithm) | Serial, OpenMP, MPI, and CUDA implementations of the Durand–Kerner algorithm. |
+
+## Research
+
+[A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening in Fundus Images](https://drive.google.com/file/d/1eMZ_QJC1BAeDK8NMB8Kg5bwHFuF0JXKi/view?usp=sharing) — manuscript under review at INDICON 2026.
 
 
-My Other Profiles:
+[Artery-Vein Segmentation from Fundus Images using Deep Learning](https://arxiv.org/abs/2510.03717) — arXiv preprint, 2025.
 
-Portfolio:https://trivik261.github.io/Portfolio_Website/
+## Tools I work with
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/trivik261)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sharan-sk//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codechef.svg' alt='codechef' height='40'>](https://www.codechef.com/users/sharan261)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg' alt='codeforces' height='40'>](https://codeforces.com/profile/Sharan261)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg' alt='hackerearth' height='40'>](https://www.hackerearth.com/@sharansk18)  
+- **Machine learning and vision:** Python, PyTorch, TensorFlow/Keras, OpenCV, NumPy, Pandas, scikit-learn, FAISS.
+- **Software systems:** C#, .NET, C++, C++/CLI, Angular, Git.
+- **Parallel computing:** OpenMP, MPI, CUDA.
+
+## Find me
+
+[LinkedIn](https://www.linkedin.com/in/sharan-sk/) · [Google Scholar](https://scholar.google.com/citations?user=tZQJuCQAAAAJ) · [CodeChef](https://www.codechef.com/users/sharan261)
 
