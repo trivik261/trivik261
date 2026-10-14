@@ -17,9 +17,6 @@ My work spans computer vision, machine learning, and software systems. I am inte
 
 ## Research
 
-[A Stage-Wise Explainable Pipeline for Arteriolar-to-Venular Ratio Estimation and Retinopathy Screening in Fundus Images](https://drive.google.com/file/d/1eMZ_QJC1BAeDK8NMB8Kg5bwHFuF0JXKi/view?usp=sharing) — manuscript under review at INDICON 2026.
-
-
 [Artery-Vein Segmentation from Fundus Images using Deep Learning](https://arxiv.org/abs/2510.03717) — arXiv preprint, 2025.
 
 ## Tools I work with
